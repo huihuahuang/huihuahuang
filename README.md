@@ -16,8 +16,8 @@
 ## 📂 Featured Projects  
 
 - **AI-Powered Food Ordering App** - Django, React.js, MCP/Ollama (In Progress)
-- **Omakase Reservation System** – Python, MySQL, Tkinter 
-- **Weather & Maps Apps** – React.js, React Native (Expo), Kotlin
+- **Omakase Reservation System** – Python (Tkinter), MySQL, Docker 
+- **Weather & Maps Apps** – React.js, Kotlin, React Native (Expo)
    
 ## 📫 Let's Connect!
 - 📧 alicehuang90@yahoo.com
