@@ -21,5 +21,7 @@
    
 ## 📫 Let's Connect!
 - 📧 alicehuang90@yahoo.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/alicehuanghh/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/alicehuanghh/)
 - 💬 Always happy to talk code, sushi, and career growth!
+- 🔊 Want to know the pronunciation of my given name in Mandarin? 👉[Huihua in Mandarin](https://www.youtube.com/watch?v=_egu9hdAmLg)
+- 🌸 You can also call me Alice
